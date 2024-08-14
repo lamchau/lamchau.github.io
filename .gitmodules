@@ -1,0 +1,3 @@
+[submodule "survivor.io"]
+	path = survivor.io
+	url = https://github.com/lamchau/survivor.io.git
